@@ -80,7 +80,7 @@ curl -X POST http://localhost:3000/api/init-db
 - "Temizlik malzemeleri" → Cleaning supplies
 
 ### 🌐 Demo
-Visit: `http://localhost:3000`
+Visit: `https://stock-managment-mongodb-sync.vercel.app`
 
 ---
 
