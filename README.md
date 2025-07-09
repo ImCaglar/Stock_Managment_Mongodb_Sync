@@ -3,6 +3,7 @@
 > Modern inventory management with AI-powered chatbot interface in premium golden theme
 
 ![Dashboard Overview](screenshots/Screenshot1.png)
+![Dashboard Overview](screenshots/Screenshot7.png)
 
 ## 🌍 English
 
